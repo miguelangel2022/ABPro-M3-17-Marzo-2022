@@ -1,0 +1,23 @@
+.footer__title{
+    font-family: $font-title;
+    text-align: center;
+    font-size: 32px;
+    color: rgb(59, 33, 2) ;
+  }
+  
+  .footer__team{
+    text-align: center;
+  }
+  
+  .footer_user{
+    display: inline-block;
+    font-family: $font-general;
+    font-size: 18px;
+    padding-left: 5px;
+    }
+  
+  .footer__text{
+    text-align: center;
+    font-family:$font-general;
+    font-size: 18px;
+  }
