@@ -1,0 +1,42 @@
+.nosotros__title{
+    font-family: $font-title;
+}
+body{
+background-color: $background-color;
+}
+
+  
+.nosotros__title{
+  font-family: 'Courgette', cursive;
+  text-align: center;
+  font-size: 32px;
+  color: rgb(59, 33, 2) ;
+}
+
+.nosotros__img{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  object-fit: cover;
+}
+
+.nosotros__text{
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+}
+
+.product__title{
+  font-family: 'Courgette', cursive;
+  text-align: center;
+  font-size: 32px;
+  color: rgb(59, 33, 2) ;
+}
+
+
+.product__img{
+  width: 230px;
+  height: 230px;
+  border-radius: 100%;
+  padding-left: 10px;
+}

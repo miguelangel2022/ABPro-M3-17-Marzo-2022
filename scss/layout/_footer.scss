@@ -2,7 +2,7 @@
     font-family: $font-title;
     text-align: center;
     font-size: 32px;
-    color: rgb(59, 33, 2) ;
+    color: $highlight-color;
   }
   
   .footer__team{
@@ -18,6 +18,6 @@
   
   .footer__text{
     text-align: center;
-    font-family:$font-general;
+    font-family: $font-general;
     font-size: 18px;
   }

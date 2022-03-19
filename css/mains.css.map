@@ -1,0 +1,29 @@
+{
+    "version": 3,
+    "mappings": "AKCA,UAAU,CACN,WAAW,CAAE,oBAAoB,CACjC,GAAG,CAAE,sEAAsE,CAE/E,UAAU,CACN,WAAW,CAAC,kBAAmB,CAC/B,GAAG,CAAE,iEAAiE,CKP1E,AAAA,cAAc,AAAA,CACV,WAAW,CTQF,WAAW,CAAE,OAAO,CSP7B,UAAU,CAAE,MAAM,CAClB,SAAS,CAAE,IAAI,CACf,KAAK,CTFS,OAAc,CSG7B,AAED,AAAA,aAAa,AAAA,CACX,UAAU,CAAE,MAAM,CACnB,AAED,AAAA,YAAY,AAAA,CACV,OAAO,CAAE,YAAY,CACrB,WAAW,CTNA,MAAM,CAAE,UAAU,CSO7B,SAAS,CAAE,IAAI,CACf,YAAY,CAAE,GAAG,CAChB,AAEH,AAAA,aAAa,AAAA,CACX,UAAU,CAAE,MAAM,CAClB,WAAW,CTbA,MAAM,CAAE,UAAU,CSc7B,SAAS,CAAE,IAAI,CAChB,ACtBH,AAAA,mBAAmB,AAAC,CAChB,UAAU,CAAE,IAAI,CAChB,KAAK,CAAE,KAAK,CACZ,MAAM,CAAE,KAAK,CACb,WAAW,CAAE,IAAI,CAClB,AAED,AAAA,kBAAkB,AAAA,CAChB,WAAW,CAAE,kBAAkB,CAChC,AAGD,AAAA,gBAAgB,AAAA,CACd,gBAAgB,CAAE,OAAO,CACzB,OAAO,CAAE,SAAS,CAClB,MAAM,CAAE,IAAI,CACZ,aAAa,CAAE,IAAI,CACnB,YAAY,CAAE,OAAc,CAC7B,AGjBH,AAAA,eAAe,AAAA,CACX,UAAU,CAAE,MAAM,CAClB,AAEF,AAAA,UAAU,AAAA,CACR,OAAO,CAAE,YAAY,CACrB,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,IAAI,CACjB,YAAY,CAAE,IAAI,CACnB,AAED,AAAA,UAAU,AAAA,CACR,eAAe,CAAE,IAAI,CACrB,KAAK,CbZS,OAAc,Caa5B,WAAW,CbRA,MAAM,CAAE,UAAU,CaS9B,AGhBH,AAAA,gBAAgB,AAAA,CACZ,WAAW,ChBQF,WAAW,CAAE,OAAO,CgBPhC,AACD,AAAA,IAAI,AAAA,CACJ,gBAAgB,ChBHG,OAAO,CgBIzB,AAGD,AAAA,gBAAgB,AAAA,CACd,WAAW,CAAE,oBAAoB,CACjC,UAAU,CAAE,MAAM,CAClB,SAAS,CAAE,IAAI,CACf,KAAK,CAAE,OAAc,CACtB,AAED,AAAA,cAAc,AAAA,CACZ,KAAK,CAAE,KAAK,CACZ,MAAM,CAAE,KAAK,CACb,aAAa,CAAE,IAAI,CACnB,UAAU,CAAE,KAAK,CAClB,AAED,AAAA,eAAe,AAAA,CACb,UAAU,CAAE,MAAM,CAClB,WAAW,CAAE,kBAAkB,CAC/B,SAAS,CAAE,IAAI,CAChB,AAED,AAAA,eAAe,AAAA,CACb,WAAW,CAAE,oBAAoB,CACjC,UAAU,CAAE,MAAM,CAClB,SAAS,CAAE,IAAI,CACf,KAAK,CAAE,OAAc,CACtB,AAGD,AAAA,aAAa,AAAA,CACX,KAAK,CAAE,KAAK,CACZ,MAAM,CAAE,KAAK,CACb,aAAa,CAAE,IAAI,CACnB,YAAY,CAAE,IAAI,CACnB",
+    "sources": [
+        "../scss/mains.scss",
+        "../scss/abstracts/_variables.scss",
+        "../scss/abstracts/_function.scss",
+        "../scss/abstracts/_mixings.scss",
+        "../scss/base/_reset.scss",
+        "../scss/base/_typography.scss",
+        "../scss/components/_buttons.scss",
+        "../scss/components/_carousel.scss",
+        "../scss/components/_cover.scss",
+        "../scss/components/_dropdown.scss",
+        "../scss/layout/_footer.scss",
+        "../scss/layout/_forms.scss",
+        "../scss/layout/_grid.scss",
+        "../scss/layout/_header.scss",
+        "../scss/layout/_navigation.scss",
+        "../scss/layout/_sidebar.scss",
+        "../scss/pages/_contacto.scss",
+        "../scss/pages/_index.scss",
+        "../scss/themes/_admin.scss",
+        "../scss/themes/_theme.scss",
+        "../scss/vendors/_bootstrap.scss"
+    ],
+    "names": [],
+    "file": "mains.css"
+}
