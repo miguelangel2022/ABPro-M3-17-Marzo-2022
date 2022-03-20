@@ -1,17 +1,27 @@
 
+// Nesting, Include, &//
 .nav__container{
-    text-align: center;
-   }
+      text-align: center;
+
+      .nav__item{
+        display: inline-block;
+        font-size: 20px;
+        padding-top: 20px;
+        padding-left: 10px;
+
+        .nav__link{
+          text-decoration: none;
+          color: $highlight-color;
+          font-family: $font-general;
+          @include btn();
+            
+          &:hover{
+            background-color: $hover-color;
+          }
+         
+        }
+      }
+    }
+
   
-  .nav__item{
-    display: inline-block;
-    font-size: 22px;
-    padding-top: 20px;
-    padding-left: 10px;
-  }
   
-  .nav__link{
-    text-decoration: none;
-    color: $highlight-color;
-    font-family: $font-general;
-  }

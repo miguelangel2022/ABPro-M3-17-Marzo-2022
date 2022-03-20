@@ -1,6 +1,5 @@
 // Abstract//
 @import "abstracts/variables";
-@import "abstracts/function";
 @import "abstracts/mixings";
 // Base//
 @import "base/reset";
@@ -12,16 +11,10 @@
 @import "components/dropdown";
 //Layout//
 @import "layout/footer";
-@import "layout/forms";
-@import "layout/grid";
 @import "layout/header";
 @import "layout/navigation";
-@import "layout/sidebar";
 // Pages//
 @import "pages/contacto";
 @import "pages/index";
 //Themes//
-@import "themes/admin";
-@import "themes/theme";
 // Vendors//
-@import "vendors/bootstrap";

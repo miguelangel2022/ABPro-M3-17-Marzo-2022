@@ -7,36 +7,35 @@ background-color: $background-color;
 
   
 .nosotros__title{
-  font-family: 'Courgette', cursive;
+  font-family: $font-title;
   text-align: center;
   font-size: 32px;
-  color: rgb(59, 33, 2) ;
+  color: $highlight-color ;
 }
 
 .nosotros__img{
-  width: 200px;
-  height: 200px;
+  @include img();
   border-radius: 100%;
   object-fit: cover;
+  box-shadow: $box-shadow;
 }
 
 .nosotros__text{
   text-align: center;
-  font-family: 'Lato', sans-serif;
+  font-family: $font-general;
   font-size: 18px;
 }
 
 .product__title{
-  font-family: 'Courgette', cursive;
+  font-family: $font-title;
   text-align: center;
   font-size: 32px;
-  color: rgb(59, 33, 2) ;
+  color: $highlight-color;
 }
 
 
 .product__img{
-  width: 230px;
-  height: 230px;
+  @include img();
   border-radius: 100%;
   padding-left: 10px;
 }

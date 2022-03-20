@@ -1,4 +1,17 @@
-@mixin text-footer(){ text-align: center;
-    font-size: 18px;
-    font-family: 'Lato', sans-serif;
-}
+//Mixin//
+@mixin btn(){
+    background-color: $btn-color;
+    color: $highlight-color;
+    border-radius: 30px;
+    padding: 10px 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: $box-shadow;
+  }
+  @mixin img() {
+      width: 200px;
+      height: 200px;
+      
+  }
